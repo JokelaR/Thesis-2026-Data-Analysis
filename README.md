@@ -1,6 +1,9 @@
 # About
 This is a repository for the data analysis workbook used for my 2026 Master's Thesis into layuser perceptions of Generative Artificial Intelligence. The final paper can be found at (Link pending release).
 
+<img width="1322" height="575" alt="image" src="https://github.com/user-attachments/assets/18af4b2c-1832-4383-badf-c471e6a216a3" />
+
+
 # Replicating the environment
 This [Marimo](https://marimo.io/) workbook requires the installation of the [uv](https://github.com/astral-sh/uv) Python project manager utility. 
 
