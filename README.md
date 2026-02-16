@@ -1,5 +1,7 @@
 # About
-This is a repository for the data analysis workbook used for my 2026 Master's Thesis into layuser perceptions of Generative Artificial Intelligence. The final paper can be found at (Link pending release).
+This is a repository for the data analysis workbook used for my 2026 Master's Thesis into layuser perceptions of Generative Artificial Intelligence. The final paper can be found [here](https://urn.fi/URN:NBN:fi:oulu-202602121740).
+
+No data is provided with the workbook, but the format used for the study is described below in the _Data format_ section.
 
 <img width="1322" height="575" alt="image" src="https://github.com/user-attachments/assets/18af4b2c-1832-4383-badf-c471e6a216a3" />
 
